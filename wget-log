@@ -1,0 +1,6 @@
+--2023-03-27 17:12:03--  https://storage.googleapis.com/kaggle-data-sets/2996762/5157319/compressed/Alzheimer%20Disease%20and%20Healthy%20Aging%20Data%20In%20US.csv.zip?X-Goog-Algorithm=GOOG4-RSA-SHA256
+Resolving storage.googleapis.com (storage.googleapis.com)... 142.250.66.48, 142.250.66.144, 216.58.200.240, ...
+Connecting to storage.googleapis.com (storage.googleapis.com)|142.250.66.48|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2023-03-27 17:12:03 ERROR 400: Bad Request.
+
